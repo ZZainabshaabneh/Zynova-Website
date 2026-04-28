@@ -1,0 +1,6 @@
+{
+  "name": "Zynova",
+  "description": "A modern, AI-powered e-commerce platform where you can generate product ideas for a specific category using the Gemini API and manage a virtual storefront and shopping cart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

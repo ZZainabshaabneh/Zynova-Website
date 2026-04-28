@@ -1,1 +1,1 @@
-# Zynova is not just a traditional store, but a smart marketplace that allows sellers to use artificial intelligence technologies (via the Gemini API model) to quickly and easily innovate and generate new products, while providing a seamless shopping experience for users.
+### Zynova is not just a traditional store, but a smart marketplace that allows sellers to use artificial intelligence technologies (via the Gemini API model) to quickly and easily innovate and generate new products, while providing a seamless shopping experience for users.

@@ -45,4 +45,7 @@ Project Goal
 The goal of Zynova is to simplify entry into e-commerce by removing the need for pre-made product content. With AI-powered product generation, sellers can launch stores faster and focus on creativity rather than content creation.
 
 Screenshots
-<img width="1918" height="856" alt="image" src="https://github.com/user-attachments/assets/92739e27-a4f4-4d00-b04c-6ac351fedbf1" /> <img width="1262" height="843" alt="image" src="https://github.com/user-attachments/assets/5a141ecc-1a53-41e9-8f9a-40133a5499a6" /> <img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/927593f4-0c20-4fb4-b8a7-c239c4eef464" /> <img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/0ce345c6-68e6-48f5-bbd4-8ba6132fbb66" />
+<img width="1918" height="856" alt="image" src="https://github.com/user-attachments/assets/92739e27-a4f4-4d00-b04c-6ac351fedbf1" /> 
+<img width="1262" height="843" alt="image" src="https://github.com/user-attachments/assets/5a141ecc-1a53-41e9-8f9a-40133a5499a6" /> 
+<img width="1917" height="858" alt="image" src="https://github.com/user-attachments/assets/927593f4-0c20-4fb4-b8a7-c239c4eef464" /> 
+<img width="1918" height="901" alt="image" src="https://github.com/user-attachments/assets/0ce345c6-68e6-48f5-bbd4-8ba6132fbb66" />
